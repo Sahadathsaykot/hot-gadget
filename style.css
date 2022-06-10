@@ -1,0 +1,100 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-position-y: 6in;
+    background-size: 140px;
+}
+.container{
+    margin-bottom: 60px;
+}
+.buy-now-btn{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 7px;
+}
+.carousel-indicators [data-bs-target] {
+    height: 7px;
+    background-color: #ffc504;
+}
+.banner_section{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80px;
+}
+.light-text{
+    font-weight: 300;
+    color: rgb(123, 123, 123);
+}
+.oragne_high{
+    color: #ffc504;
+}
+a{
+    text-decoration: none;
+}
+.card button{
+    margin: 40px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+    margin-top: 30px;
+}
+.smartphone img{
+    width: 220px;
+    margin: 30px;
+}
+.laptop img{
+    width: 220px;
+    margin: 30px;
+}
+.laptop{
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.cetagories .left-m{
+    width: 220px;
+    height: 240px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    margin: 20px;
+    display: block;
+    border-radius: 0px 20px 0px 20px;
+}
+.cetagories .top{
+    border-radius: 20px 0 20px 0;
+    width: 220px;
+    height: 240px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    margin-bottom: 60px
+}
+.cetagories .bottom{
+    width: 220px;
+    height: 240px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border-radius: 20px 0px 20px 0px;
+}
+.cat-img img{
+    width: 50%;
+    margin: 50px auto;
+    margin-left: 50px;
+} 
+.cat-img h5{
+    margin-left: 75px;
+}
+.cat-img .top img{
+    width: 50%;
+    margin: 50px auto;
+    margin-left: 50px;
+}
+.cetagories h2{
+    text-align: center;
+}
+.oragne_bar img{
+    width: 20px;
+}
